@@ -16,12 +16,12 @@ Project focuses on finding insights into market trends of jobs in data science a
 
 ### Data Sources
 
-The dataset is a fictitious collection of key details from job postings from 2017 to 2021 for jobs in the data science industry.
+The dataset is a fictitious collection of key details from job postings from 2017 to 2021 for jobs in the data science industry. [job-postings.csv](https://github.com/riteshgogade/Analysing-job-market-data-in-Power-BI/blob/main/job_postings.csv)
 
 ### Data Transformation
 1. Loaded the dataset and removed the rows with missing data.
 2. Promoted first row as header, performed EDA on key columns like job title, job skills and company industry
-3. Explored tob trends over time for finding out how years of experience relate to a particular job position and job postings over time.
+3. Explored tob trends over time for finding out how years of experience relate to a particular job position and analysed job postings over time.
 4. 
 
 
